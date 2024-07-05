@@ -1,4 +1,4 @@
-TABELLE: 
+TABELLE:
 
 CREATE TABLE [dbo].[ANAGRAFICA] (
     [Id]        INT            IDENTITY (1, 1) NOT NULL,
